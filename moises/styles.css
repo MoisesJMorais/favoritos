@@ -43,7 +43,7 @@ header p {
 .grid-item:hover {
   border: solid 2px;
   border-color: darkcyan;
-  background-color: darkcyan;
+  background-color: #121212;
 }
 
 .grid-item img {
