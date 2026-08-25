@@ -40,15 +40,15 @@ header p {
   padding: 10px;
 }
 
+.grid-item:hover {
+  border: solid 2px;
+  border-color: darkcyan;
+}
+
 .grid-item img {
   width: 60px;
   height: 60px;
   border-radius: 15px;
-}
-
-.grid-item img:hover {
-  border: solid 2px;
-  border-color: darkcyan;
 }
 
 .grid-item a {
