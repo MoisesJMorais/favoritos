@@ -63,7 +63,7 @@ header p {
   margin-top: 0;
 }
 
-.grid-item p:hover {
+.grid-item:hover p {
   color: darkcyan;
 }
 
